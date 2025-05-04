@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-right: 710px;
+}
+
+.logo {
+    flex: 1;
+}
+
+.date-time {
+    display: flex;
+    gap: 10px;
+    margin-right: -1010px;
+}
